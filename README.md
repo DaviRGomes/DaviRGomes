@@ -48,10 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DaviRGomes/DaviRGomes/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DaviRGomes.DaviRGomes&"  />
 </div>

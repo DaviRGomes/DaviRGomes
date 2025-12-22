@@ -1,86 +1,39 @@
-# Olá, eu sou o Davi Gomes! 👋
+![](https://komarev.com/ghpvc/?username=DaviRGomes&style=flat)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
-  <strong>Estudante de Engenharia de Computação no Inatel</strong>
-</div>
+<h2>Olá 👋, meu nome é Davi!</h2>
 
-<br/>
+ - 🎓 Cursando Engenharia de Computação no <a href="https://inatel.br/home/">Inatel</a>.
 
-<p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia, focado no ecossistema Java e desenvolvimento Backend. <br/>
-  Sempre em busca de aprimorar meus conhecimentos e construir soluções eficientes.
-</p>
+ - 🚀 Focado no ecossistema Java e desenvolvimento Backend.
 
-<p align="center">
-  🔭 Atualmente trabalhando em projetos acadêmicos e pessoais<br>
-  🌱 Aprendendo mais sobre <strong>Arquitetura de Software</strong> e <strong>Cloud</strong><br>
-  ⚡ Fato curioso: Adoro resolver problemas complexos de lógica!
-</p>
-
----
-
-<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /><br>Spring
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br>Postgres
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /><br>MongoDB
-      </td>
-       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>Git
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviRGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRGomes&layout=compact&theme=dracula"/>
-  </a>
-</div>
+ - 🌱 Estudando Arquitetura de Software e Cloud.
 
 <br/>
 
-<h3 align="center">📫 Entre em contato comigo</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/davi-rosa-gomes-2770b520b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:davirosagomes.eng@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/davi_rs_gomes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+<div title="GitHub Stats">
+  <a href="https://github.com/DaviRGomes">
+    <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DaviRGomes&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img height="170em" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRGomes&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 
+<div style="display: inline_block" title="Tecnologias"><br>
+    <img align="center" alt="Java" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Spring" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img align="center" alt="Python" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" alt="MySQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="PostgreSQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="MongoDB" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="Git" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="IntelliJ" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img align="center" alt="VSCode" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+<br/>
 <br/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DaviRGomes.DaviRGomes&" alt="visitor badge"/>
+<div title="Contatos">
+  <a href="https://www.linkedin.com/in/davi-rosa-gomes-2770b520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
+  <a href="mailto:davirosagomes.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
+  <a href="https://www.instagram.com/davi_rs_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="25"></a>
 </div>

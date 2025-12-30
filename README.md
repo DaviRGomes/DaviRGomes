@@ -11,36 +11,34 @@
 
 ### Estatísticas
 
-<div align="left">
-  <a href="https://github.com/DaviRGomes">
-    <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DaviRGomes&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRGomes&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
+<p align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviRGomes&theme=dark" />
+</p>
 
 <br/>
 
 ### Tecnologias
 
-<div style="display: inline_block">
-    <img align="center" alt="Java" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Spring" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="Python" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="MySQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="PostgreSQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MongoDB" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="Git" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="IntelliJ" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    <img align="center" alt="VSCode" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
+<p align="left">
+    <img alt="Java" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Spring" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img alt="Python" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="MySQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img alt="PostgreSQL" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img alt="MongoDB" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img alt="Git" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="IntelliJ" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img alt="VSCode" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
 <br/>
 <br/>
 
 ### Contatos
 
-<div>
+<p align="left">
   <a href="https://www.linkedin.com/in/davi-rosa-gomes-2770b520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
   <a href="mailto:davirosagomes.eng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
   <a href="https://www.instagram.com/davi_rs_gomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="25"></a>
-</div>
+</p>

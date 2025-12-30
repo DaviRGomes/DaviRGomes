@@ -2,11 +2,10 @@
 
 <h2>Olá 👋, meu nome é Davi!</h2>
 
- - 🎓 Cursando Engenharia de Computação no <a href="https://inatel.br/home/">Inatel</a>.
-
- - 🚀 Focado no ecossistema Java e desenvolvimento Backend.
-
- - 🌱 Estudando Arquitetura de Software e Cloud.
+ - 🎓 Bacharelado em Engenharia de Computação no <a href="https://inatel.br/home/">Inatel</a>.
+ - 🚀 Atuando como suporte TI II na Sem Limite Transpostadora.
+ -     Vendi sistemas de software fim a fim para empresas:  Escola Balão Magico e Perfumaria JNJ 
+ - 🌱 Lapidando os conhecimentos atraves da Alura.
 
 <br/>
 
